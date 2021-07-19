@@ -4,7 +4,8 @@
   "description": "API Regression Tests",
   "main": "index.js",
   "scripts": {
-    "open": "cypress open"
+    "open": "cypress open",
+    "headless":"cypress run --headless --browser chrome"
   },
   "author": "Shameem Abdulkarim",
   "license": "ISC",
