@@ -1,0 +1,21 @@
+{
+  "name": "visualfabric-assignment",
+  "version": "1.0.0",
+  "description": "API Regression Tests",
+  "main": "index.js",
+  "scripts": {
+    "open": "cypress open"
+  },
+  "author": "Shameem Abdulkarim",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.6.0",
+    "cypress-cucumber-preprocessor": "^4.1.4"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  },
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}

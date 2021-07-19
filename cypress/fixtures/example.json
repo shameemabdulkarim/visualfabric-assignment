@@ -1,0 +1,28 @@
+{
+  "firstTestCase": {
+    "dateOfBirth":"1990-02-02",
+    "unit":"month"
+  },
+  "thirdTestCase":{
+    "dateOfBirth":"20-07-1996",
+    "unit":"hour"
+  },
+  "fourthTestCase":{
+    "dateOfBirth":"1996-08-03",
+    "unit":"week"
+  },
+  "fifthTestCase":{
+    "dateOfBirth":"1996-08-02",
+    "unit":"day"
+  },
+  "sixthTestCase":{
+    "dateOfBirth":"1996-09-01",
+    "unit":"day"
+  },
+  "seventhTestCase":{
+    "dateOfBirth":"1990-10-30"
+  }
+}
+
+
+
