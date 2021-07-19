@@ -1,6 +1,6 @@
 # Project Description
 
-This project contains automated tests for the API  nextBirthdayCalculaor
+This project contains automated tests for the API  nextBirthdayCalculator
 
 API Endpoint - https://p9fwi1d77e.execute-api.eu-west-1.amazonaws.com/Prod/next-birthday?dateofbirth=1990-10-30&unit=hour
 
