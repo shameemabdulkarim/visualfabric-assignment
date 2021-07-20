@@ -4,6 +4,8 @@ This project contains automated tests for the API  nextBirthdayCalculator
 
 API Endpoint - https://p9fwi1d77e.execute-api.eu-west-1.amazonaws.com/Prod/next-birthday?dateofbirth=1990-10-30&unit=hour
 
+Cypress framework is used to perform the automation. This is a Javascript based test automation framework and more details based on the framework can be found at https://www.cypress.io/
+
 # Installation
 
 Follow below steps to run these tests locally
@@ -15,8 +17,8 @@ Make sure `git` is installed in the machine
 
 ## Steps to follow
 
-1. Clone this repository to your local machine 
-2. Navigate to the folder where the repository is cloned and run the command `npm install`.This will install all the necessary packages and the tool `cypress` as well
+1. Clone this repository to your local machine by using the link https://github.com/shameemabdulkarim/visualfabric-assignment.git
+2. Navigate to the folder where the repository is cloned and run the command `npm install`.This will install all the necessary packages and  `cypress` test automation framework as well
 3. The tests can be run in two modes : Either using the test runner or in headless mode
 4. In order to run the tests using the runner, provide the command `npm run open` in the same location where Step 2 was executed.
 5. This will open up a runner in which you can see the `spec` file with all the tests as shown below
